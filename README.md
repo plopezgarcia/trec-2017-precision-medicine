@@ -2,7 +2,7 @@
 
 A repository containing support code and resources from the [Institute for Medical Informatics, Statistics and Documentation at the Medical University of Graz (Austria)](https://www.medunigraz.at/imi/en/) participation at the [2017 TREC Precision Medicine / Clinical Decision Support Track](http://trec-cds.appspot.com/2017.html). For further information on this track and the final results please check the official [TREC-PM 2017 overview paper](https://trec.nist.gov/pubs/trec26/papers/Overview-PM.pdf).
 
-If you use data or code in your work, please cite our [TREC 2017 proceedings] paper(https://trec.nist.gov/pubs/trec26/papers/imi_mug-PM.pdf):
+If you use data or code in your work, please cite our [TREC 2017 proceedings paper] (https://trec.nist.gov/pubs/trec26/papers/imi_mug-PM.pdf):
 
 *TREC 2017 Precision Medicine - Medical University of Graz. Pablo López-García, Michel Oleynik, Zdenko Kasáč and Stefan Schulz. TREC, Gaithersburg, MD. 2017. Available at https://trec.nist.gov/pubs/trec26/papers/imi_mug-PM.pdf.*
 
