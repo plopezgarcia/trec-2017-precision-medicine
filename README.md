@@ -2,14 +2,16 @@
 
 A repository containing support code and resources from the [Institute for Medical Informatics, Statistics and Documentation at the Medical University of Graz (Austria)](https://www.medunigraz.at/imi/en/) participation at the [2017 TREC Precision Medicine / Clinical Decision Support Track](http://trec-cds.appspot.com/2017.html). For further information on this track and the final results please check the official [TREC-PM 2017 overview paper](https://trec.nist.gov/pubs/trec26/papers/Overview-PM.pdf).
 
-If you use data or code in your work, please cite our [TREC 2017 proceedings](https://trec.nist.gov/pubs/trec26/trec2017.html) paper:
+If you use data or code in your work, please cite our [TREC 2017 proceedings] paper(https://trec.nist.gov/pubs/trec26/papers/imi_mug-PM.pdf):
 
 *TREC 2017 Precision Medicine - Medical University of Graz. Pablo López-García, Michel Oleynik, Zdenko Kasáč and Stefan Schulz. TREC, Gaithersburg, MD. 2017. Available at https://trec.nist.gov/pubs/trec26/papers/imi_mug-PM.pdf.*
 
+The complete TREC 2017 proceedings are available [here](https://trec.nist.gov/pubs/trec26/trec2017.html).
+
 Also of interest:
 
-* [TREC 2017 presentation slides](https://github.com/bst-mug/trec2017/blob/master/docs/presentation.pdf)
-* [TREC 2017 Poster](https://github.com/bst-mug/trec2017/blob/master/docs/poster.pdf)
+* [Our TREC 2017 presentation slides](https://github.com/bst-mug/trec2017/blob/master/docs/presentation.pdf)
+* [Our TREC 2017 Poster](https://github.com/bst-mug/trec2017/blob/master/docs/poster.pdf)
 
 ## Code Dependencies
 
