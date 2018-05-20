@@ -8,8 +8,8 @@ If you use data or code in your work, please cite our [TREC 2017 proceedings](ht
 
 Also of interest:
 
-* [Presentation slides](https://github.com/bst-mug/trec2017/blob/master/docs/presentation.pdf)
-* [Poster for a quick overview](https://github.com/bst-mug/trec2017/blob/master/docs/poster.pdf)
+* [TREC 2017 presentation slides](https://github.com/bst-mug/trec2017/blob/master/docs/presentation.pdf)
+* [TREC 2017 Poster](https://github.com/bst-mug/trec2017/blob/master/docs/poster.pdf)
 
 ## Code Dependencies
 
